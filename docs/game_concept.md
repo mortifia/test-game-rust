@@ -1,52 +1,63 @@
+# Concept du Jeu
 
-## core
+## Introduction
 
-title: _____  
-> ( try a title in french ) Come up with a catchy and memorable title that reflects the essence of your game.
+Le jeu est une creation de situation/interaction dans une survie fesant voyager le joueur et le personnage de diferentes manière a traver le (ou les?) monde.
 
-genre: aventure, survie, exploration, craft, build
-> Define the genre of your game (e.g., action, adventure, RPG, strategy, puzzle, etc.). You can also combine genres to create a unique experience.
+le voyage, le combat, la vie, la mort, l'entretien, le marchandage, le craft doit contribué en premier a l'experience du moment et doit avoir son impact sur la vie du personnage
 
-Setting: ____
-> Describe the world or environment where your game takes place. This includes the time period, location, and overall atmosphere.
+pour chaque choses il doit avoir plusieurs moyen de l'atteindre (comme trouvé, crée, echangé, volé, persuader)
 
-Story/Plot:  
-> Outline the main story or narrative of your game. Who are the main characters? What is the central conflict or goal? How does the story progress?
+## Histoire
 
-Gameplay Mechanics:
-> Describe the core gameplay mechanics. What actions can players perform? What are the rules and systems that govern the game world?
+dans un monde contenporain post spatial qui a regresser au medieval du a une catastrophe. les vestiges des differents ages seront encore present.
 
-Art Style:
-> Define the visual style of your game. Is it realistic, cartoony, stylized, or something else?
+la catastrophe fut la fusion de mondes qui ammena une guerre horible a travers le syteme solaire. le monde en aura plus que des vestiges.
 
-Target Audience:
-> Identify who your game is for. Consider age range, gaming experience, and interests.
+cette fusion amena de nouvelle especes inteligente.
 
-Unique Selling Points (USPs):
-> Highlight what makes your game unique and different from others in the same genre. What innovative features or twists does it offer?
+suivant les communauté, alience, et especes du a leur experiences il pourra avoir de tout dans les idée et traitement entre chaque espece.
 
-Platforms:
-> Specify the platforms your game will be available on (e.g., PC, consoles, mobile, etc.).
+il y aura des moment insoluble. l'idée est de ne pas avoir du tout blant ou tout noir dans les choix. meme parfois d'avoir du gris/blanc de chaques coté.
 
-Inspiration and Influences:
+## Gameplay
+on est un enfant, suivant l'espece ou pourra apparaitre a diferent endroits suivant la dificulté choisie (noble, marchand, fermier, esclave, mendiant, ...)
 
-- projectZomboid (avanture, survie)
-- factorio (build(interconnect things), not the craft (too complex for casual player))
-- barotrauma -> neurotrauma (health)
-- ss13 (health operation)
-- starsector (ship fight)
+on vieillira, aura des enfants, et mourreront. on pourra continué avec un proche suite a une succession ou declaretion de sa mort ou disparition.  
 
-> Mention any games, movies, books, or other media that have inspired your concept.  
+le personnage aura des point de destin pour echapé a la mort. peut ne pas fonctionné dans des cas critique ?
+
+dans ce monde tout le monde vie/survie a sa manière.
+
+a notre naissance on aura un objectif majeure qui aura de bonne chance de prendre plusieur génération comme devenir roi, trouvé la cité de la legende, ect ect
+
+aucun object n'est unique il y aura l'objet avec sa qualité et ces materiaux utilisé
+
+pour qu'un object final soit de la meilleur qualité il faudra que tout ce qui est consomé soit aussi de qualité pour maximisé les chances
+
+pour chaque categorie d'object il y aura un niveau d'objet (ne bloque pas son utilisation sauf si connaissance nessessaire ou espece ) 
+
+example non contractuel pour expliqué le niveau:
+niveau 1 jambe de xxxx(materieux) permet seulement de se tenir et marché
+niveau 2 jambe pliante de xxxx
+niveau 3 jambe bionique
+niveau 4 jambe organique 
+niveau 5 jambe neural 
+...
 
 
+## Personnages
+// ...existing code...
 
+## Monde
+// ...existing code...
 
+## Graphismes et Style Artistique
+3D, 
+// ...existing code...
 
+## Musique et Effets Sonores
+// ...existing code...
 
-
-
-
-#tmp 
- - ship, world, stellar system are 2D map but show as 3D
- - ship and world is composed of multiples levels (cave, tower, deck)
- - some object need multiple level (nuclear power plant, very big cannon)
+## Conclusion
+// ...existing code...
